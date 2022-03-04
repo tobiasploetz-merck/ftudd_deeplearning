@@ -1,21 +1,21 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-boost=1.68.0
-boost-cpp=1.68.0
-descriptastorus=2.2.0
+boost
+boost-cpp
+descriptastorus
 numpy
 numpy-base
-pandas=0.25.0
-python=3.6.8
-pytorch=1.1.0
-tensorboard=1.13.1
-torchvision=0.3.0
-rdkit=2019.03.4.0
-readline=7.0
-scikit-learn=0.21.2
-scipy=1.3.0
-tqdm=4.32.1
-typing=3.6.4
+pandas
+python
+pytorch
+tensorboard
+torchvision
+rdkit
+readline
+scikit-learn
+scipy
+tqdm
+typing
 jupyterlab
 transformers
