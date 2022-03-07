@@ -1,0 +1,8 @@
+torch
+torchaudio
+ipywebrtc 
+notebook 
+widgetsnbextension 
+ipywidgets
+Cython
+nemo_toolkit[all]
